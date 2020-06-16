@@ -1,0 +1,7 @@
+Controls:
+
+L to toggle lights
+H to toggle highbeams
+T to toggle preview features
+
+WASD to drive
